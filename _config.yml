@@ -4,3 +4,5 @@ theme: minima
 author: 아재
 lang: ko
 future: true
+plugins:
+  - jekyll-sitemap
