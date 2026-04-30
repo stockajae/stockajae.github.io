@@ -1,8 +1,11 @@
-title: 아재의 자동매매 다이어리
+title: 주식아재의 자동매매 다이어리
 description: 주식 자동매매를 함께 공부하는 공간
 theme: minima
-author: 아재
+author: 주식아재
 lang: ko
 future: true
+
 plugins:
   - jekyll-sitemap
+  
+google-analytics: G-328W8LWSP6
